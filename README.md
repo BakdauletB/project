@@ -1,3 +1,46 @@
+ have interacted with Laravel framework in order to complete this project. I have made website where patients/clients can do some booking ONLINE and can experience some services from this beauty salon. Website has 5 sessions: home, services, about, booking and contact. They are logically connected.
+
+What have I used?
+HTML
+CSS
+Javascipt
+Bootstrap
+PHP
+
+Eloquent relationship:
+One to Many
+One patient/client may use several services.
+
+What have I done?
+
+Mobile-responsive website
+Attractive front-end
+Shows errors if user(patient/client) of this website have not filled required inputs.
+File uploading in order to keep user information.
+Sends email to that email that has filled by patient/client.
+Localization included: Russian and English.
+Tables are in one to many relationship.
+
+
+Use-case for this project.
+User enters to the website without any account(which is very convinient). In the 'services' session the user would introduced by services of this beauty salon -> types and cost of service. In 'about' session they can read about the beauty salon. In 'booking' session, the user makes some booking to the beauty salon. Admin would call to the user and know more about the user wishes and all these things will be saved in the database. In 'contact' session the user can call us without filling the form which is located in 'booking' session. That's it!
+
+
+![baha](https://user-images.githubusercontent.com/75556748/115669344-fa3b0e80-a369-11eb-9da9-d1db77991622.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
